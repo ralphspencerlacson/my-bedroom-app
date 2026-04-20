@@ -1,6 +1,6 @@
 import React from 'react'
 import Model, { preload as modelPreload } from '../common/Model'
-import { television } from '../../models/index.js'
+import { television } from './index.js'
 
 export default function TelevisionModel(props) {
   return (

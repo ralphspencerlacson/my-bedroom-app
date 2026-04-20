@@ -1,6 +1,6 @@
 import React from 'react'
-import Model, { preload as modelPreload } from '../Model'
-import { sony_console } from '../../models/index.js'
+import Model, { preload as modelPreload } from '../common/Model.jsx'
+import { sony_console } from './index.js'
 
 export default function SonyConsoleModel(props) {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
 import Model from '../common/Model'
-import { tv_shelf } from '../../models/index.js'
+import { tv_shelf } from './index.js'
 
 export default function TvShelfModel(props) {
   return (
